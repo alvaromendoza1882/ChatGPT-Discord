@@ -7,6 +7,7 @@ OpenAI API is a powerful tool that can be used to create highly advanced Artific
 <br>
 
 ## Links
+- What is ChatGPT: https://www.youtube.com/watch?v=vNkORFYvl68
 - Install Python on Windows: https://www.youtube.com/watch?v=aI4OmIbkJH8
 - Create your discord bot: https://www.youtube.com/watch?v=aI4OmIbkJH8
 - Run Python on Windows: https://learnpython.com/blog/run-python-script-windows/
