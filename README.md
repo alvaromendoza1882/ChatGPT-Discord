@@ -6,5 +6,13 @@ OpenAI API is a powerful tool that can be used to create highly advanced Artific
 
 <br>
 
+## Links
+- Install Python on Windows 10: https://www.youtube.com/watch?v=aI4OmIbkJH8
+- Create your discord bot: https://www.youtube.com/watch?v=aI4OmIbkJH8
+- Run Python on Windows: https://learnpython.com/blog/run-python-script-windows/
+- Get your OpenAI API Key: https://beta.openai.com/account/api-keys
+
+<br>
+
 ![image](https://user-images.githubusercontent.com/83751620/212251102-a2bd9b58-9e1b-4b07-8f99-ea48c4a7b82b.png)
 
