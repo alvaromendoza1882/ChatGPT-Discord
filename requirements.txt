@@ -1,0 +1,4 @@
+discord==1.5.1
+requests==2.25.0
+openai==2.0.0
+discord.ext.commands==1.5.1
