@@ -1,0 +1,2 @@
+# OpenAIDiscord
+ChatGPT for Discord
